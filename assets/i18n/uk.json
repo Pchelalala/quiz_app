@@ -1,0 +1,52 @@
+{
+  "app_bar": {
+    "title": "Вітаємо на вікторині!"
+  },
+  "button": {
+    "cancel": "Відміна"
+  },
+  "language": {
+    "english": "Англійська",
+    "ukrainian": "Українська"
+  },
+  "route_buttons_home_screen": {
+    "to_true_or_false_screen_button_name": "Так чи ні?",
+    "to_one_answer_screen_button_name": "Одна відповідь"
+  },
+  "suggestions": {
+    "choose_lang": "Оберіть мову",
+    "choose_quiz_type": "Оберіть тип вікторини"
+  },
+  "theme": {
+    "change_theme": "Змінити тему"
+  },
+  "plural": {
+    "demo": {
+      "0": "Будь ласка, почніть натискати кнопку '+'",
+      "1": "Ви натиснули кнопку один раз",
+      "else": "Ви натиснули кнопку {{value}} раз."
+    }
+  },
+
+  "app_bar_true_or_false_screen": {
+    "title": "Так чи нApp_Bar_Results_Screen_Title?"
+  },
+  "choice_options_button_name": {
+    "true": "Так",
+    "false": "Ні"
+  },
+
+
+  "app_bar_one_answer_screen": {
+    "title": "Одна відповідь"
+  },
+
+
+  "app_bar_results_screen": {
+    "title": "Результати"
+  },
+  "results": {
+    "message": "Ваш результат: {{counterOfRightAnswers}}"
+  },
+  "number_of_right_answers": "Кількість правильних відповідей: "
+}

@@ -1,0 +1,54 @@
+{
+  "app_bar": {
+    "title": "Welcome to the quiz!"
+  },
+  "button": {
+    "cancel": "Cancel"
+  },
+  "language": {
+    "english": "English",
+    "ukrainian": "Ukrainian"
+  },
+  "route_buttons_home_screen": {
+    "to_true_or_false_screen_button_name": "True or False Quiz",
+    "to_one_answer_screen_button_name": "One Answer Quiz"
+  },
+  "suggestions": {
+    "choose_lang": "Choose the language",
+    "choose_quiz_type": "Choose the type of the quiz"
+  },
+  "theme": {
+    "change_theme": "Change theme"
+  },
+  "plural": {
+    "demo": {
+      "0": "Please start pushing the 'plus' button.",
+      "1": "You have pushed the button one time.",
+      "else": "You have pushed the button {{value}} times."
+    }
+  },
+
+
+  "app_bar_true_or_false_screen": {
+    "title": "True of False Quiz"
+  },
+  "choice_options_button_name": {
+    "true": "True",
+    "false": "False"
+  },
+
+
+  "app_bar_one_answer_screen": {
+    "title": "One Answer Quiz"
+  },
+
+
+  "app_bar_results_screen": {
+    "title": "Results"
+  },
+  "results": {
+    "message":"Your results:{{counterOfRightAnswers}}"
+  },
+
+  "number_of_right_answers": "Number of right answers: "
+}
