@@ -1,10 +1,3 @@
-import 'dart:convert';
-
-OneAnswerModel welcomeFromJson(String str) =>
-    OneAnswerModel.fromJson(json.decode(str));
-
-String welcomeToJson(OneAnswerModel data) => json.encode(data.toJson());
-
 class OneAnswerModel {
   OneAnswerModel({
     this.id,
