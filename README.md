@@ -23,3 +23,7 @@ A quiz-app bundled with Provider package for state management.
 - Multilevel configurable logger
 - Static analysis tool integration (flutter_lints package + custom rules config)
 - Common widgets sharing and reusing example
+
+# Course Work:
+https://docs.google.com/document/d/13r1c5ow6TjXw-0BH5R8YzwD85fAOZIfm/edit# 
+
